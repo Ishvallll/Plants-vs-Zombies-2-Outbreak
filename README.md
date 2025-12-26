@@ -1,6 +1,8 @@
 # Plants-vs-Zombies-2-Outbreak
 **Plants vs Zombies 2: Outbreak**
 
+# WARNING! this fan-game still under development, so please, wait till its done.
+
 Plants vs Zombies 2: Outbreak is a fan-game inspired by *Plants vs Zombies 2*, This game does not replace the original title — it expands its universe, experiments with new ideas, and pushes the classic PvZ formula into unexplored territory.
 
 The core philosophy of Outbreak is simple: **more of everything**.
